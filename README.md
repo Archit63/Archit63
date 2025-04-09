@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Archit Shukla</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 
+![2DYg](https://github.com/user-attachments/assets/ca859984-014f-49bc-b692-6395010768a6)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archit63&label=Profile%20views&color=0e75b6&style=flat" alt="archit63" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit63" alt="archit63" /></a> </p>
